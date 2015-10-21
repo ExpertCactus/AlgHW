@@ -12,7 +12,7 @@ package AlgHW;
 public class TS {
 
 	public static void main(String[] args) {
-		
+		//test
 
 	}
 
